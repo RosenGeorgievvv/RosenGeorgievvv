@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks, I'm Rosen Georgiev. 👋
 
 <!--
 **RosenGeorgievvv/RosenGeorgievvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
