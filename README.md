@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rosen Georgiev</h1>
 <h3 align="center">Software Engineer from Bulgaria</h3>
 
-<img align="right" alt="coding" width="400" src="https://philna.sh/_astro/react.69hniDC5.gif">
+<img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
-<p align="left"> <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🌱 I’m currently learning **Front End Development**
 
