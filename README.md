@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
-<p align="left"> <img src="" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/RosenGeorgievvv?tab=repositories](https://github.com/RosenGeorgievvv?tab=repositories)
 
 - 📫 How to reach me **rosengeorgiew1@gmail.com**
