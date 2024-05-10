@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="" /> </p>
 
-- 🌱 I’m currently learning **Front End Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/RosenGeorgievvv?tab=repositories](https://github.com/RosenGeorgievvv?tab=repositories)
 
 - 📫 How to reach me **rosengeorgiew1@gmail.com**
