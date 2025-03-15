@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rosen Georgiev</h1>
-<h3 align="center">Software Engineer from Bulgaria</h3>
+<h3 align="center">Frontend Developer from Bulgaria</h3>
 
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
